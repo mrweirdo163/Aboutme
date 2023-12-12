@@ -1,6 +1,6 @@
 [![MasterHead](https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)](https://technophile-guy.vercel.app/)
 <h1 align="center">Hi 👋, I'm Huynh Vinh Do</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate AI Engineer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvdodeptrai&label=Profile%20views&color=0e75b6&style=flat" alt="hvdodeptrai" /> </p>
