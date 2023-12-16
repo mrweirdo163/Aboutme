@@ -5,23 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvdodeptrai&label=Profile%20views&color=0e75b6&style=flat" alt="hvdodeptrai" /> </p>
 
-- 🔭 I’m currently working on [Monkey Blogging](https://monkey-blogging-iota.vercel.app/)
+- 🔭 I’m currently working on some Deep Learning and Computer Vision projects.
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **LLMs and Natural Language Processing**
 
-- 👯 I’m looking to collaborate on [Monkey Blogging](https://monkey-blogging-iota.vercel.app/)
+- 👯 I’m looking to collaborate on [Dog Vision](https://github.com/mrweirdo163/Dog-Vision)
 
 - 🤝 I’m looking for help with [React Portfolio](https://technophile-guy.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://technophile-guy.vercel.app/](https://technophile-guy.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/mrweirdo163)
 
 - 📝 I regularly write articles on [https://dev.to/technophileguy](https://dev.to/technophileguy)
 
-- 💬 Ask me about **Javascript, React, Firebase,...**
+- 💬 Ask me about **Python, Hugging Face, Machine Learning models,...**
 
-- 📫 How to reach me **huynhvinhdo1603@gmail.com**
+- 📫 How to reach me **hvdo21@clc.fitus.edu.vn**
 
-- ⚡ Fun fact **I am a gym rat.**
+- ⚡ Fav Quote **The magic you are looking for is in the work you are avoiding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
